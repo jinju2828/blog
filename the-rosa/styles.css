@@ -350,6 +350,11 @@ header {
     margin-bottom: 0;
 }
 
+/*The perfect blend*/
+.perfect-blend {
+    background: url("/images/start.jpg") center no-repeat;
+    background-size: cover;
+}
 
 
 
