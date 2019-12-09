@@ -5,7 +5,7 @@
   "main": "the-rosa/main.js",
   "homepage": "https://jinju2828.github.io/blog",
   "scripts": {
-    "deploy": "the-rosa/node_modules/.bin/gh-pages -d the-rosa"
+    "deploy": "gh-pages -d the-rosa"
   },
   "author": "Jinju Chu",
   "license": "MIT",
